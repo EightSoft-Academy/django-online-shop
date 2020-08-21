@@ -8,4 +8,8 @@ Django online shop with many implemented features such as browsing products, add
 - Manage customer orders
 - Configure Celery in your project with RabbitMQ as a message broker
 - Send asynchronous notifications to customers using Celery
-- Monitor Celery using Flower
+- Monitor Celery using Flower for async tasks
+- RabbitMQ massage broker for celery (http://localhost:15672 )
+
+References: 
+1. https://www.onlinetutorialspoint.com/windows/how-to-install-rabbitmq-on-windows-10.html
