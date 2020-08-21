@@ -129,3 +129,6 @@ STATIC_ROOT = os.path.join(BASE_DIR, 'staticfiles')
 
 # Sessions
 CART_SESSION_ID = 'cart'
+
+# Email about the order
+EMAIL_BACKEND = 'django.core.mail.backends.console.EmailBackend'
