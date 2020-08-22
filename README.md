@@ -15,7 +15,13 @@ Django online shop with many implemented features such as browsing products, add
 - Integrate a payment gateway into your project
 - Export orders to CSV files
 - Create custom views for the administration site
-- Generate PDF invoices dynamically
+
+## Checkpoint №3 - Extending with more features
+- Creating a coupon system to apply discounts
+- Adding internationalization to your project
+- Using Rosetta to manage translations
+- Translating models using django-parler
+- Building a product recommendation engine
 
 References: 
 1. https://www.onlinetutorialspoint.com/windows/how-to-install-rabbitmq-on-windows-10.html
